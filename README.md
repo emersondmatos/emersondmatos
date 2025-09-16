@@ -5,28 +5,18 @@
     <img width=35% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=emersondmatos&show_icons=true&theme=react&layout=compact" />
 </div>
 <br><br>
-
+<br><br>
 <div align="center" style="margin-bottom:10px">
 
  ## My Skills:
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,java,js,powershell,python,linux,arch,debian,bsd&perline=5" />
+    <img src="https://skillicons.dev/icons?i=dotnet,java,js,powershell,python,mysql,postgres,linux,arch,debian,bsd&perline=5" />
   </a>
 </p>
-
-<div align="center" style="margin-bottom:10px">
-
- ## Database:
-</div>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  </a>
-</p>
-
+<br><br>
+<br><br>
 <div align="center" style="margin-bottom:10px">
 
  ## Contact me:
