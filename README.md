@@ -1,5 +1,5 @@
 <div>
-    <p align="center"> Greetings! I'm Emerson, a Computer Science Student who is passionate about OS, Hardware, Network, and CyberSecurity. 👾
+    <p align="center"> Greetings! I'm Emerson, a Computer Science student who is fascinated by Operational Systems, Hardware, Network, and CyberSecurity. 👾
 </div>
 <div align="center" style="margin-bottom:100px">
     <img width=35% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=emersondmatos&show_icons=true&theme=react&layout=compact" />
