@@ -7,7 +7,7 @@
 
 <div align="center" style="margin-bottom:10px">
 
-#### My skills:
+## My Skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,6 +19,9 @@
 
  ## Database:
 </div>
-<div align="center" style="margin-bottom:10px">
+
+<p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</div>
+  </a>
+</p>
