@@ -12,7 +12,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,powershell,python,flask,mysql,postgres,linux,bsd&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,js,powershell,python,flask,mysql,postgres,git,linux,bsd&perline=5" />
   </a>
 </p>
 <div align="center" style="margin-bottom:10px">
