@@ -5,7 +5,7 @@
     <img width=35% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=emersondmatos&show_icons=true&theme=react&layout=compact" />
 </div>
 <br><br>
-<br><br>
+
 <div align="center" style="margin-bottom:10px">
 
  ## My Skills:
@@ -17,6 +17,7 @@
 </p>
 <br><br>
 <div align="center" style="margin-bottom:10px">
+<br><br>
 
  ## Contact me:
 </div>
