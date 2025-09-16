@@ -27,13 +27,13 @@
   </a>
 </p>
 
-## Contact me:
+<div align="center" style="margin-bottom:10px">
+
+ ## Contact me:
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/emerson-de-matos-6532aa2b7/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/emersondmatos">
-    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="mailto:emersonmaiadematos@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
