@@ -7,14 +7,13 @@
 
 <div align="center" style="margin-bottom:10px">
 
-## My skills:
-</div>
-<div align="center" style="margin-bottom:10px">
-    <img src="https://skillicons.dev/icons?i=dotnet,java,js,python" />
-</div>
-<div align="center" style="margin-bottom:10px">
-    <img src="https://skillicons.dev/icons?i=linux,arch,debian,bsd" />
-</div>
+#### My skills:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,java,js,powershell,python,linux,arch,debian,bsd&perline=5" />
+  </a>
+</p>
 
 <div align="center" style="margin-bottom:10px">
 
