@@ -14,7 +14,7 @@
 
 ## Featured Projects
 <p align="center">
-  <b><a href="https://github.com/emersondmatos/Vertex-Assistente-de-Suporte">Vertex</a></b>: A modular Batch-based assistant for automated Windows troubleshooting and system repair. [cite: 49, 50, 94, 95]<br>
+  <b><a href="https://github.com/emersondmatos/Vertex-Assistente-de-Suporte">Vertex</a></b>: A modular Batch-based assistant for automated Windows troubleshooting and system repair.<br>
   <b><a href="https://github.com/emersondmatos/RPCS3-Gyro-Patch-Linux-Port">RPCS3 Gyro Patch</a></b>: Linux port for the RPCS3 gyro patch, packaged for cross-distro compatibility.
 </p>
 
