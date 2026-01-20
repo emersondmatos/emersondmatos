@@ -3,15 +3,20 @@
 <div align="center" style="margin-bottom:5px">
 
  ## My Skills:
-</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,python,java,js,docker,git,linux,bsd&perline=3" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,azure,powershell,python,bash,wireshark,nmap,github,git,vscode,mysql,dotnet,java" />
   </a>
 </p>
-<div align="center" style="margin-bottom:10px">
 
- ## Contact me:
+<div align="center" style="margin-bottom:10px">
+  </div>
+
+## Featured Projects
+* [cite_start]**[Vertex](https://github.com/emersondmatos/Vertex-Assistente-de-Suporte)**: A modular Batch-based assistant for automated Windows troubleshooting and system repair[cite: 94, 134].
+* **[RPCS3 Gyro Patch](https://github.com/emersondmatos/RPCS3-Gyro-Patch-Linux-Port)**: Linux port for the RPCS3 gyro patch, packaged for cross-distro compatibility.
+
+## Contact me:
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/emerson-de-matos-6532aa2b7/">
