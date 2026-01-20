@@ -2,7 +2,7 @@
 <p align="center"> I'm Emerson, a Computer Science student who is fascinated by Operational Systems, Hardware, Network, and CyberSecurity. 👾<br><br>
 <div align="center" style="margin-bottom:5px">
 
- ## My Skills:
+## My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,bsd,azure,powershell,bash,github,git,py,java,js,dotnet&perline=3" />
@@ -10,11 +10,13 @@
 </p>
 
 <div align="center" style="margin-bottom:10px">
-  </div>
+</div>
 
 ## Featured Projects
-[Vertex](https://github.com/emersondmatos/Vertex-Assistente-de-Suporte)**: A modular Batch-based assistant for automated Windows troubleshooting and system repair[cite: 94, 134].
-[RPCS3 Gyro Patch](https://github.com/emersondmatos/RPCS3-Gyro-Patch-Linux-Port)**: Linux port for the RPCS3 gyro patch, packaged for cross-distro compatibility.
+<p align="center">
+  <b><a href="https://github.com/emersondmatos/Vertex-Assistente-de-Suporte">Vertex</a></b>: A modular Batch-based assistant for automated Windows troubleshooting and system repair. [cite: 49, 50, 94, 95]<br>
+  <b><a href="https://github.com/emersondmatos/RPCS3-Gyro-Patch-Linux-Port">RPCS3 Gyro Patch</a></b>: Linux port for the RPCS3 gyro patch, packaged for cross-distro compatibility.
+</p>
 
 ## Contact me:
 </div>
