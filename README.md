@@ -5,7 +5,7 @@
  ## My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,bsd,azure,powershell,bash,wireshark,nmap,github,git,python,java,js,mysql,dotnet&perline=3" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,bsd,nginx,azure,powershell,bash,github,git,py,java,js,mysql,dotnet&perline=7" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
   </div>
 
 ## Featured Projects
-* [cite_start]**[Vertex](https://github.com/emersondmatos/Vertex-Assistente-de-Suporte)**: A modular Batch-based assistant for automated Windows troubleshooting and system repair[cite: 94, 134].
-* **[RPCS3 Gyro Patch](https://github.com/emersondmatos/RPCS3-Gyro-Patch-Linux-Port)**: Linux port for the RPCS3 gyro patch, packaged for cross-distro compatibility.
+[Vertex](https://github.com/emersondmatos/Vertex-Assistente-de-Suporte)**: A modular Batch-based assistant for automated Windows troubleshooting and system repair[cite: 94, 134].
+[RPCS3 Gyro Patch](https://github.com/emersondmatos/RPCS3-Gyro-Patch-Linux-Port)**: Linux port for the RPCS3 gyro patch, packaged for cross-distro compatibility.
 
 ## Contact me:
 </div>
