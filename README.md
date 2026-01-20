@@ -5,7 +5,7 @@
  ## My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,azure,powershell,python,bash,wireshark,nmap,github,git,vscode,mysql,dotnet,java" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,azure,powershell,python,bash,wireshark,nmap,github,git,vscode,mysql,dotnet,java&perline=3" />
   </a>
 </p>
 
