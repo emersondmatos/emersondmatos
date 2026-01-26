@@ -1,4 +1,4 @@
-<p align="center"> Greetings, i'm Emerson, a Computer Science student who is fascinated by Operational Systems, Hardware, Network, and CyberSecurity.<br><br>
+<p align="center"> Hello there, i'm Emerson, a Computer Science student who is fascinated by Operational Systems, Hardware, Network, and CyberSecurity.<br><br>
 <div align="center" style="margin-bottom:5px">
 
 ## My Skills:
